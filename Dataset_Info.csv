@@ -1,0 +1,574 @@
+Attribute,Data Type,Unique Items,Available Unique Items,Missing Values,Statistical Measure Type,Statistical Measure Value
+ID,object,3870,"['ID_GTFAC7PEVWQ9' 'ID_TK40ARLSPOKS' 'ID_1FJY2CRIMLZZ' ...
+ 'ID_RBYVUPRATVMW' 'ID_ARE9QWENJNJ2' 'ID_KEPOQDTCZC6S']",0,Mode,ID_001QL5V4IJIB
+District,object,4,['Nalanda' 'Gaya' 'Vaishali' 'Jamui'],0,Mode,Nalanda
+Block,object,9,"['Noorsarai' 'Rajgir' 'Gurua' 'Garoul' 'Khaira' 'Jamui' 'Mahua'
+ 'Chehrakala' 'Wazirganj']",0,Mode,Rajgir
+CultLand,int64,95,"[ 45  26  10  15  60  12  80  25  20  30  50  29  23  40  19   5  13   9
+  17   6  14  18  70  27  22  28  35  38  21   7   8  24  65 100  32  48
+   2  11  16  36   3  42   1  52  55  39  68  33  43  59  58   4  57 415
+ 140  90  56  34 380 190  95  51 104 200 110 280  41  49  46 120  31  85
+ 260  67  62  64 320  82 250 170  84  44 420 220  66 800  96 130  73  75
+ 400 160 105 240  71]",0,Mean,28.527906976744188
+CropCultLand,int64,91,"[ 40  26  10  15  60   5  12  80  25  14  30  50  29  20   3  35   8   9
+   6  70  22  32   4  28  18  21  19  65  23   2  45  11   7  17  48  36
+  13 100   1  16  55  90  52  68  38  33  58  72 400 140  67  56  34 300
+ 190  95  44 104 200 120 240  42  31  24  85 260 220  62  82 250  41  75
+  64 110 340  27  66 800  46  96  43 130  73 170 195 320  49  53 107 105
+ 180]",0,Mean,24.727131782945737
+LandPreparationMethod,object,43,"['TractorPlough FourWheelTracRotavator'
+ 'WetTillagePuddling TractorPlough FourWheelTracRotavator'
+ 'TractorPlough WetTillagePuddling' 'TractorPlough'
+ 'FourWheelTracRotavator' 'WetTillagePuddling'
+ 'TractorPlough BullockPlough'
+ 'WetTillagePuddling TractorPlough FourWheelTracRotavator BullockPlough'
+ 'WetTillagePuddling TractorPlough BullockPlough'
+ 'WetTillagePuddling TractorPlough' 'FourWheelTracRotavator TractorPlough'
+ 'WetTillagePuddling FourWheelTracRotavator'
+ 'WetTillagePuddling FourWheelTracRotavator BullockPlough TractorPlough'
+ 'WetTillagePuddling BullockPlough TractorPlough FourWheelTracRotavator'
+ 'TractorPlough WetTillagePuddling FourWheelTracRotavator'
+ 'BullockPlough TractorPlough WetTillagePuddling FourWheelTracRotavator'
+ 'WetTillagePuddling FourWheelTracRotavator TractorPlough'
+ 'WetTillagePuddling FourWheelTracRotavator TractorPlough BullockPlough'
+ 'TractorPlough FourWheelTracRotavator WetTillagePuddling'
+ 'FourWheelTracRotavator WetTillagePuddling'
+ 'TractorPlough WetTillagePuddling BullockPlough'
+ 'TractorPlough WetTillagePuddling FourWheelTracRotavator BullockPlough'
+ 'FourWheelTracRotavator TractorPlough WetTillagePuddling'
+ 'WetTillagePuddling TractorPlough BullockPlough FourWheelTracRotavator'
+ 'BullockPlough FourWheelTracRotavator TractorPlough WetTillagePuddling'
+ 'BullockPlough TractorPlough' 'FourWheelTracRotavator BullockPlough'
+ 'Other' 'TractorPlough FourWheelTracRotavator BullockPlough'
+ 'WetTillagePuddling BullockPlough FourWheelTracRotavator TractorPlough'
+ 'WetTillagePuddling Other'
+ 'FourWheelTracRotavator BullockPlough WetTillagePuddling TractorPlough'
+ 'WetTillagePuddling BullockPlough TractorPlough'
+ 'FourWheelTracRotavator WetTillagePuddling TractorPlough'
+ 'FourWheelTracRotavator WetTillagePuddling BullockPlough TractorPlough'
+ 'TractorPlough BullockPlough WetTillagePuddling'
+ 'BullockPlough TractorPlough WetTillagePuddling' 'TractorPlough Other'
+ 'TractorPlough WetTillagePuddling BullockPlough FourWheelTracRotavator'
+ 'BullockPlough WetTillagePuddling' 'BullockPlough'
+ 'TractorPlough FourWheelTracRotavator BullockPlough WetTillagePuddling'
+ 'TractorPlough FourWheelTracRotavator WetTillagePuddling BullockPlough']",0,Mode,TractorPlough
+CropTillageDate,object,78,"['2022-07-20' '2022-07-18' '2022-06-30' '2022-06-16' '2022-07-19'
+ '2022-07-02' '2022-07-23' '2022-06-27' '2022-07-24' '2022-07-14'
+ '2022-07-21' '2022-06-29' '2022-07-10' '2022-07-25' '2022-07-08'
+ '2022-06-12' '2022-07-13' '2022-07-16' '2022-07-26' '2022-07-05'
+ '2022-06-07' '2022-06-25' '2022-07-27' '2022-07-12' '2022-06-05'
+ '2022-07-17' '2022-07-01' '2022-07-15' '2022-07-22' '2022-06-24'
+ '2022-06-20' '2022-08-08' '2022-08-13' '2022-06-28' '2022-06-22'
+ '2022-07-06' '2022-07-07' '2022-07-03' '2022-07-04' '2022-06-10'
+ '2022-06-11' '2022-08-10' '2022-06-26' '2022-07-28' '2022-06-23'
+ '2022-07-30' '2022-08-16' '2022-06-17' '2022-06-19' '2022-08-06'
+ '2022-07-11' '2022-07-09' '2022-06-08' '2022-08-04' '2022-06-15'
+ '2022-06-13' '2022-07-29' '2022-08-11' '2022-08-03' '2022-06-14'
+ '2022-07-31' '2022-06-04' '2022-06-09' '2022-08-01' '2022-05-30'
+ '2022-08-05' '2022-08-07' '2022-08-02' '2022-06-21' '2022-06-18'
+ '2022-08-12' '2022-08-18' '2022-08-09' '2022-06-01' '2022-06-06'
+ '2022-08-27' '2022-08-15' '2022-06-02']",0,Mode,2022-07-20
+CropTillageDepth,int64,8,[5 6 4 3 2 8 7 1],0,Mean,4.488372093023256
+CropEstMethod,object,4,"['Manual_PuddledRandom' 'Manual_PuddledLine' 'Broadcasting'
+ 'LineSowingAfterTillage']",0,Mode,Manual_PuddledRandom
+RcNursEstDate,object,61,"['2022-06-27' '2022-06-20' '2022-06-17' '2022-06-21' '2022-06-15'
+ '2022-07-05' nan '2022-07-09' '2022-06-30' '2022-06-23' '2022-06-19'
+ '2022-06-25' '2022-06-18' '2022-07-04' '2022-06-26' '2022-06-13'
+ '2022-07-07' '2022-06-02' '2022-06-29' '2022-07-06' '2022-06-22'
+ '2022-06-28' '2022-07-15' '2022-07-08' '2022-06-08' '2022-06-24'
+ '2022-07-27' '2022-07-02' '2022-06-16' '2022-07-01' '2022-07-03'
+ '2022-06-01' '2022-07-23' '2022-07-14' '2022-06-03' '2022-07-11'
+ '2022-06-14' '2022-07-19' '2022-07-13' '2022-07-30' '2022-07-28'
+ '2022-06-04' '2022-06-12' '2022-07-10' '2022-07-20' '2022-07-31'
+ '2022-06-10' '2022-07-22' '2022-06-09' '2022-07-12' '2022-07-18'
+ '2022-07-26' '2022-06-11' '2022-07-16' '2022-06-05' '2022-07-17'
+ '2022-07-25' '2022-07-21' '2022-07-29' '2022-07-24' '2022-06-07'
+ '2022-06-06']",83,Mode,2022-06-28
+SeedingSowingTransplanting,object,62,"['2022-07-21' '2022-07-20' '2022-08-13' '2022-07-17' '2022-07-06'
+ '2022-07-30' '2022-07-22' '2022-08-02' '2022-07-16' '2022-07-26'
+ '2022-07-24' '2022-07-29' '2022-07-27' '2022-07-12' '2022-07-28'
+ '2022-07-11' '2022-07-14' '2022-08-04' '2022-07-10' '2022-07-04'
+ '2022-08-14' '2022-07-19' '2022-07-15' '2022-08-03' '2022-08-10'
+ '2022-07-07' '2022-07-18' '2022-08-19' '2022-08-25' '2022-08-01'
+ '2022-07-08' '2022-08-28' '2022-08-05' '2022-08-12' '2022-08-22'
+ '2022-07-25' '2022-08-17' '2022-08-23' '2022-07-09' '2022-07-31'
+ '2022-08-09' '2022-07-23' '2022-07-02' '2022-07-05' '2022-08-24'
+ '2022-07-13' '2022-08-16' '2022-08-08' '2022-08-27' '2022-08-21'
+ '2022-08-15' '2022-08-20' '2022-07-03' '2022-08-11' '2022-08-06'
+ '2022-08-07' '2022-08-30' '2022-08-18' '2022-07-01' '2022-08-31'
+ '2022-08-29' '2022-08-26']",0,Mode,2022-07-28
+SeedlingsPerPit,float64,21,"[  2.   1.   4.  nan   3.   5.   6.   8.   7.  12.   9.  13. 442.  14.
+  20.  11.  16.  10.  22.  18.  15.  19.]",289,Mean,2.706506562412734
+NursDetFactor,object,125,"['CalendarDate IrrigWaterAvailability SeedAvailability'
+ 'CalendarDate PreMonsoonShowers IrrigWaterAvailability LabourAvailability SeedAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability LabourAvailability'
+ 'CalendarDate SeedAvailability' nan 'LabourAvailability'
+ 'CalendarDate IrrigWaterAvailability' 'SeedAvailability'
+ 'PreMonsoonShowers SeedAvailability'
+ 'CalendarDate PreMonsoonShowers LabourAvailability IrrigWaterAvailability'
+ 'CalendarDate' 'IrrigWaterAvailability LabourAvailability'
+ 'IrrigWaterAvailability SeedAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability LabourAvailability SeedAvailability'
+ 'CalendarDate LabourAvailability SeedAvailability'
+ 'CalendarDate SeedAvailability IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability LabourAvailability SeedAvailability'
+ 'CalendarDate PreMonsoonShowers IrrigWaterAvailability SeedAvailability'
+ 'SeedAvailability IrrigWaterAvailability'
+ 'IrrigWaterAvailability CalendarDate SeedAvailability'
+ 'CalendarDate SeedAvailability LabourAvailability'
+ 'CalendarDate PreMonsoonShowers SeedAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability SeedAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability'
+ 'CalendarDate LabourAvailability SeedAvailability IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability LabourAvailability PreMonsoonShowers'
+ 'CalendarDate IrrigWaterAvailability PreMonsoonShowers'
+ 'IrrigWaterAvailability' 'PreMonsoonShowers'
+ 'CalendarDate PreMonsoonShowers IrrigWaterAvailability LabourAvailability'
+ 'CalendarDate PreMonsoonShowers LabourAvailability IrrigWaterAvailability SeedAvailability'
+ 'PreMonsoonShowers SeedAvailability LabourAvailability'
+ 'IrrigWaterAvailability SeedAvailability CalendarDate'
+ 'PreMonsoonShowers CalendarDate'
+ 'CalendarDate PreMonsoonShowers IrrigWaterAvailability SeedAvailability LabourAvailability'
+ 'CalendarDate PreMonsoonShowers IrrigWaterAvailability'
+ 'SeedAvailability CalendarDate PreMonsoonShowers'
+ 'SeedAvailability IrrigWaterAvailability CalendarDate'
+ 'IrrigWaterAvailability LabourAvailability SeedAvailability'
+ 'CalendarDate LabourAvailability PreMonsoonShowers IrrigWaterAvailability'
+ 'CalendarDate PreMonsoonShowers LabourAvailability'
+ 'CalendarDate PreMonsoonShowers'
+ 'IrrigWaterAvailability PreMonsoonShowers'
+ 'IrrigWaterAvailability CalendarDate'
+ 'LabourAvailability IrrigWaterAvailability PreMonsoonShowers SeedAvailability'
+ 'LabourAvailability IrrigWaterAvailability SeedAvailability'
+ 'CalendarDate PreMonsoonShowers LabourAvailability SeedAvailability IrrigWaterAvailability'
+ 'CalendarDate LabourAvailability'
+ 'IrrigWaterAvailability LabourAvailability PreMonsoonShowers SeedAvailability'
+ 'CalendarDate IrrigWaterAvailability LabourAvailability'
+ 'PreMonsoonShowers CalendarDate IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability LabourAvailability SeedAvailability PreMonsoonShowers'
+ 'LabourAvailability IrrigWaterAvailability CalendarDate PreMonsoonShowers'
+ 'CalendarDate PreMonsoonShowers LabourAvailability SeedAvailability'
+ 'PreMonsoonShowers CalendarDate LabourAvailability'
+ 'IrrigWaterAvailability LabourAvailability SeedAvailability PreMonsoonShowers CalendarDate'
+ 'IrrigWaterAvailability SeedAvailability LabourAvailability'
+ 'PreMonsoonShowers CalendarDate IrrigWaterAvailability LabourAvailability'
+ 'IrrigWaterAvailability LabourAvailability CalendarDate PreMonsoonShowers'
+ 'SeedAvailability CalendarDate IrrigWaterAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability CalendarDate'
+ 'SeedAvailability CalendarDate'
+ 'PreMonsoonShowers IrrigWaterAvailability SeedAvailability LabourAvailability'
+ 'LabourAvailability SeedAvailability IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability SeedAvailability LabourAvailability'
+ 'CalendarDate IrrigWaterAvailability PreMonsoonShowers LabourAvailability SeedAvailability'
+ 'CalendarDate LabourAvailability SeedAvailability PreMonsoonShowers IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability SeedAvailability PreMonsoonShowers'
+ 'IrrigWaterAvailability LabourAvailability PreMonsoonShowers'
+ 'SeedAvailability LabourAvailability IrrigWaterAvailability PreMonsoonShowers CalendarDate'
+ 'PreMonsoonShowers LabourAvailability SeedAvailability'
+ 'LabourAvailability SeedAvailability'
+ 'PreMonsoonShowers LabourAvailability IrrigWaterAvailability'
+ 'PreMonsoonShowers CalendarDate IrrigWaterAvailability LabourAvailability SeedAvailability'
+ 'CalendarDate IrrigWaterAvailability PreMonsoonShowers LabourAvailability'
+ 'CalendarDate LabourAvailability IrrigWaterAvailability SeedAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability CalendarDate SeedAvailability'
+ 'IrrigWaterAvailability PreMonsoonShowers CalendarDate'
+ 'LabourAvailability SeedAvailability PreMonsoonShowers IrrigWaterAvailability'
+ 'LabourAvailability IrrigWaterAvailability'
+ 'IrrigWaterAvailability PreMonsoonShowers LabourAvailability SeedAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability SeedAvailability CalendarDate'
+ 'IrrigWaterAvailability LabourAvailability SeedAvailability PreMonsoonShowers'
+ 'IrrigWaterAvailability LabourAvailability CalendarDate'
+ 'SeedAvailability LabourAvailability'
+ 'IrrigWaterAvailability SeedAvailability LabourAvailability PreMonsoonShowers'
+ 'LabourAvailability PreMonsoonShowers IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability PreMonsoonShowers SeedAvailability'
+ 'PreMonsoonShowers LabourAvailability'
+ 'IrrigWaterAvailability LabourAvailability PreMonsoonShowers CalendarDate'
+ 'CalendarDate SeedAvailability IrrigWaterAvailability LabourAvailability'
+ 'SeedAvailability LabourAvailability IrrigWaterAvailability PreMonsoonShowers'
+ 'IrrigWaterAvailability PreMonsoonShowers CalendarDate LabourAvailability SeedAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability LabourAvailability SeedAvailability CalendarDate'
+ 'IrrigWaterAvailability LabourAvailability SeedAvailability CalendarDate'
+ 'PreMonsoonShowers CalendarDate IrrigWaterAvailability SeedAvailability'
+ 'IrrigWaterAvailability CalendarDate PreMonsoonShowers LabourAvailability'
+ 'IrrigWaterAvailability PreMonsoonShowers SeedAvailability'
+ 'LabourAvailability SeedAvailability IrrigWaterAvailability PreMonsoonShowers'
+ 'CalendarDate PreMonsoonShowers SeedAvailability IrrigWaterAvailability LabourAvailability'
+ 'CalendarDate SeedAvailability PreMonsoonShowers IrrigWaterAvailability'
+ 'IrrigWaterAvailability CalendarDate LabourAvailability SeedAvailability'
+ 'LabourAvailability CalendarDate IrrigWaterAvailability'
+ 'CalendarDate PreMonsoonShowers SeedAvailability LabourAvailability IrrigWaterAvailability'
+ 'CalendarDate LabourAvailability IrrigWaterAvailability PreMonsoonShowers'
+ 'SeedAvailability IrrigWaterAvailability PreMonsoonShowers CalendarDate'
+ 'CalendarDate SeedAvailability LabourAvailability IrrigWaterAvailability'
+ 'SeedAvailability LabourAvailability IrrigWaterAvailability'
+ 'CalendarDate SeedAvailability LabourAvailability IrrigWaterAvailability PreMonsoonShowers'
+ 'IrrigWaterAvailability CalendarDate LabourAvailability'
+ 'IrrigWaterAvailability CalendarDate PreMonsoonShowers SeedAvailability'
+ 'SeedAvailability IrrigWaterAvailability PreMonsoonShowers'
+ 'IrrigWaterAvailability LabourAvailability CalendarDate SeedAvailability'
+ 'CalendarDate LabourAvailability IrrigWaterAvailability'
+ 'PreMonsoonShowers SeedAvailability CalendarDate'
+ 'LabourAvailability IrrigWaterAvailability CalendarDate'
+ 'PreMonsoonShowers LabourAvailability IrrigWaterAvailability SeedAvailability'
+ 'SeedAvailability IrrigWaterAvailability CalendarDate PreMonsoonShowers LabourAvailability'
+ 'SeedAvailability LabourAvailability CalendarDate IrrigWaterAvailability'
+ 'IrrigWaterAvailability SeedAvailability PreMonsoonShowers'
+ 'PreMonsoonShowers SeedAvailability LabourAvailability IrrigWaterAvailability'
+ 'PreMonsoonShowers LabourAvailability CalendarDate IrrigWaterAvailability'
+ 'PreMonsoonShowers IrrigWaterAvailability SeedAvailability LabourAvailability CalendarDate'
+ 'IrrigWaterAvailability SeedAvailability CalendarDate LabourAvailability'
+ 'LabourAvailability CalendarDate'
+ 'LabourAvailability IrrigWaterAvailability PreMonsoonShowers']",289,Mode,CalendarDate PreMonsoonShowers IrrigWaterAvailability LabourAvailability SeedAvailability
+TransDetFactor,object,155,"['CalendarDate SeedlingAge RainArrival IrrigWaterAvailability LaborAvailability'
+ 'SeedlingAge IrrigWaterAvailability LaborAvailability'
+ 'SeedlingAge RainArrival IrrigWaterAvailability LaborAvailability'
+ 'CalendarDate SeedlingAge RainArrival IrrigWaterAvailability' nan
+ 'CalendarDate RainArrival IrrigWaterAvailability LaborAvailability SeedlingAge'
+ 'CalendarDate RainArrival' 'CalendarDate SeedlingAge'
+ 'SeedlingAge IrrigWaterAvailability'
+ 'CalendarDate SeedlingAge RainArrival'
+ 'SeedlingAge CalendarDate RainArrival IrrigWaterAvailability LaborAvailability'
+ 'CalendarDate SeedlingAge IrrigWaterAvailability LaborAvailability'
+ 'RainArrival' 'CalendarDate'
+ 'IrrigWaterAvailability RainArrival SeedlingAge'
+ 'RainArrival IrrigWaterAvailability'
+ 'RainArrival IrrigWaterAvailability LaborAvailability'
+ 'CalendarDate SeedlingAge RainArrival LaborAvailability IrrigWaterAvailability'
+ 'LaborAvailability IrrigWaterAvailability CalendarDate'
+ 'CalendarDate RainArrival IrrigWaterAvailability LaborAvailability'
+ 'SeedlingAge LaborAvailability RainArrival IrrigWaterAvailability'
+ 'LaborAvailability IrrigWaterAvailability RainArrival'
+ 'CalendarDate SeedlingAge IrrigWaterAvailability LaborAvailability RainArrival'
+ 'CalendarDate SeedlingAge RainArrival LaborAvailability'
+ 'SeedlingAge RainArrival IrrigWaterAvailability'
+ 'SeedlingAge RainArrival' 'RainArrival SeedlingAge'
+ 'CalendarDate IrrigWaterAvailability SeedlingAge RainArrival'
+ 'CalendarDate IrrigWaterAvailability RainArrival SeedlingAge LaborAvailability'
+ 'CalendarDate RainArrival SeedlingAge IrrigWaterAvailability'
+ 'CalendarDate RainArrival LaborAvailability' 'LaborAvailability'
+ 'CalendarDate SeedlingAge IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability LaborAvailability SeedlingAge'
+ 'IrrigWaterAvailability' 'SeedlingAge'
+ 'IrrigWaterAvailability SeedlingAge'
+ 'SeedlingAge IrrigWaterAvailability LaborAvailability RainArrival'
+ 'CalendarDate RainArrival IrrigWaterAvailability SeedlingAge'
+ 'SeedlingAge RainArrival LaborAvailability CalendarDate'
+ 'SeedlingAge CalendarDate IrrigWaterAvailability LaborAvailability'
+ 'SeedlingAge CalendarDate IrrigWaterAvailability RainArrival'
+ 'CalendarDate SeedlingAge IrrigWaterAvailability RainArrival'
+ 'LaborAvailability CalendarDate IrrigWaterAvailability'
+ 'IrrigWaterAvailability LaborAvailability'
+ 'CalendarDate IrrigWaterAvailability RainArrival SeedlingAge'
+ 'LaborAvailability IrrigWaterAvailability RainArrival SeedlingAge CalendarDate'
+ 'SeedlingAge IrrigWaterAvailability RainArrival CalendarDate'
+ 'RainArrival CalendarDate'
+ 'CalendarDate IrrigWaterAvailability LaborAvailability RainArrival'
+ 'RainArrival IrrigWaterAvailability SeedlingAge'
+ 'CalendarDate IrrigWaterAvailability'
+ 'LaborAvailability IrrigWaterAvailability' 'SeedlingAge CalendarDate'
+ 'SeedlingAge IrrigWaterAvailability RainArrival'
+ 'LaborAvailability IrrigWaterAvailability RainArrival SeedlingAge'
+ 'RainArrival IrrigWaterAvailability LaborAvailability SeedlingAge CalendarDate'
+ 'SeedlingAge RainArrival IrrigWaterAvailability LaborAvailability CalendarDate'
+ 'SeedlingAge RainArrival LaborAvailability IrrigWaterAvailability'
+ 'RainArrival CalendarDate IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability LaborAvailability'
+ 'CalendarDate LaborAvailability IrrigWaterAvailability RainArrival'
+ 'RainArrival SeedlingAge CalendarDate'
+ 'IrrigWaterAvailability SeedlingAge LaborAvailability'
+ 'CalendarDate SeedlingAge LaborAvailability IrrigWaterAvailability'
+ 'SeedlingAge CalendarDate RainArrival IrrigWaterAvailability'
+ 'CalendarDate SeedlingAge IrrigWaterAvailability RainArrival LaborAvailability'
+ 'IrrigWaterAvailability CalendarDate LaborAvailability'
+ 'IrrigWaterAvailability SeedlingAge CalendarDate'
+ 'IrrigWaterAvailability CalendarDate'
+ 'CalendarDate RainArrival IrrigWaterAvailability'
+ 'CalendarDate RainArrival LaborAvailability SeedlingAge IrrigWaterAvailability'
+ 'IrrigWaterAvailability LaborAvailability RainArrival SeedlingAge'
+ 'CalendarDate IrrigWaterAvailability LaborAvailability SeedlingAge RainArrival'
+ 'SeedlingAge RainArrival CalendarDate IrrigWaterAvailability'
+ 'RainArrival LaborAvailability'
+ 'IrrigWaterAvailability RainArrival SeedlingAge CalendarDate'
+ 'CalendarDate IrrigWaterAvailability RainArrival'
+ 'LaborAvailability IrrigWaterAvailability SeedlingAge CalendarDate'
+ 'IrrigWaterAvailability LaborAvailability RainArrival'
+ 'IrrigWaterAvailability RainArrival LaborAvailability'
+ 'SeedlingAge CalendarDate RainArrival'
+ 'CalendarDate RainArrival IrrigWaterAvailability SeedlingAge LaborAvailability'
+ 'LaborAvailability IrrigWaterAvailability RainArrival CalendarDate'
+ 'SeedlingAge CalendarDate LaborAvailability IrrigWaterAvailability'
+ 'RainArrival IrrigWaterAvailability SeedlingAge LaborAvailability'
+ 'CalendarDate LaborAvailability'
+ 'SeedlingAge RainArrival IrrigWaterAvailability CalendarDate'
+ 'SeedlingAge LaborAvailability'
+ 'SeedlingAge CalendarDate IrrigWaterAvailability'
+ 'LaborAvailability CalendarDate SeedlingAge'
+ 'RainArrival SeedlingAge IrrigWaterAvailability'
+ 'CalendarDate IrrigWaterAvailability SeedlingAge'
+ 'CalendarDate SeedlingAge LaborAvailability IrrigWaterAvailability RainArrival'
+ 'IrrigWaterAvailability LaborAvailability SeedlingAge'
+ 'CalendarDate IrrigWaterAvailability SeedlingAge LaborAvailability'
+ 'IrrigWaterAvailability RainArrival SeedlingAge CalendarDate LaborAvailability'
+ 'CalendarDate SeedlingAge LaborAvailability'
+ 'RainArrival CalendarDate SeedlingAge IrrigWaterAvailability'
+ 'SeedlingAge IrrigWaterAvailability CalendarDate'
+ 'CalendarDate LaborAvailability RainArrival IrrigWaterAvailability'
+ 'CalendarDate RainArrival SeedlingAge'
+ 'LaborAvailability IrrigWaterAvailability CalendarDate SeedlingAge'
+ 'CalendarDate LaborAvailability IrrigWaterAvailability'
+ 'LaborAvailability SeedlingAge IrrigWaterAvailability'
+ 'CalendarDate RainArrival SeedlingAge LaborAvailability IrrigWaterAvailability'
+ 'CalendarDate RainArrival SeedlingAge IrrigWaterAvailability LaborAvailability'
+ 'IrrigWaterAvailability RainArrival'
+ 'RainArrival SeedlingAge CalendarDate IrrigWaterAvailability LaborAvailability'
+ 'SeedlingAge IrrigWaterAvailability CalendarDate RainArrival LaborAvailability'
+ 'SeedlingAge IrrigWaterAvailability CalendarDate LaborAvailability'
+ 'IrrigWaterAvailability SeedlingAge RainArrival'
+ 'CalendarDate RainArrival LaborAvailability IrrigWaterAvailability'
+ 'IrrigWaterAvailability LaborAvailability CalendarDate SeedlingAge'
+ 'SeedlingAge IrrigWaterAvailability RainArrival LaborAvailability'
+ 'SeedlingAge RainArrival CalendarDate IrrigWaterAvailability LaborAvailability'
+ 'LaborAvailability RainArrival SeedlingAge'
+ 'SeedlingAge LaborAvailability IrrigWaterAvailability RainArrival'
+ 'IrrigWaterAvailability LaborAvailability RainArrival CalendarDate'
+ 'SeedlingAge CalendarDate LaborAvailability'
+ 'RainArrival SeedlingAge CalendarDate LaborAvailability IrrigWaterAvailability'
+ 'LaborAvailability IrrigWaterAvailability SeedlingAge RainArrival CalendarDate'
+ 'LaborAvailability RainArrival SeedlingAge CalendarDate'
+ 'IrrigWaterAvailability LaborAvailability RainArrival CalendarDate SeedlingAge'
+ 'LaborAvailability IrrigWaterAvailability SeedlingAge'
+ 'CalendarDate LaborAvailability SeedlingAge RainArrival'
+ 'IrrigWaterAvailability RainArrival CalendarDate LaborAvailability'
+ 'RainArrival CalendarDate SeedlingAge'
+ 'RainArrival SeedlingAge IrrigWaterAvailability LaborAvailability'
+ 'CalendarDate SeedlingAge LaborAvailability RainArrival'
+ 'CalendarDate IrrigWaterAvailability RainArrival LaborAvailability'
+ 'RainArrival SeedlingAge CalendarDate LaborAvailability'
+ 'CalendarDate IrrigWaterAvailability SeedlingAge RainArrival LaborAvailability'
+ 'RainArrival LaborAvailability SeedlingAge IrrigWaterAvailability'
+ 'SeedlingAge LaborAvailability IrrigWaterAvailability CalendarDate'
+ 'SeedlingAge IrrigWaterAvailability LaborAvailability CalendarDate'
+ 'RainArrival IrrigWaterAvailability CalendarDate SeedlingAge LaborAvailability'
+ 'SeedlingAge RainArrival LaborAvailability'
+ 'IrrigWaterAvailability SeedlingAge RainArrival CalendarDate'
+ 'SeedlingAge CalendarDate RainArrival LaborAvailability IrrigWaterAvailability'
+ 'LaborAvailability SeedlingAge'
+ 'CalendarDate LaborAvailability IrrigWaterAvailability SeedlingAge RainArrival'
+ 'SeedlingAge RainArrival CalendarDate'
+ 'RainArrival LaborAvailability CalendarDate'
+ 'IrrigWaterAvailability CalendarDate SeedlingAge'
+ 'LaborAvailability RainArrival'
+ 'IrrigWaterAvailability RainArrival LaborAvailability SeedlingAge'
+ 'CalendarDate IrrigWaterAvailability LaborAvailability RainArrival SeedlingAge'
+ 'CalendarDate SeedlingAge LaborAvailability RainArrival IrrigWaterAvailability'
+ 'LaborAvailability IrrigWaterAvailability CalendarDate SeedlingAge RainArrival'
+ 'LaborAvailability IrrigWaterAvailability RainArrival CalendarDate SeedlingAge'
+ 'SeedlingAge LaborAvailability CalendarDate IrrigWaterAvailability'
+ 'IrrigWaterAvailability LaborAvailability RainArrival SeedlingAge CalendarDate'
+ 'RainArrival IrrigWaterAvailability LaborAvailability SeedlingAge'
+ 'RainArrival SeedlingAge LaborAvailability'
+ 'RainArrival SeedlingAge CalendarDate IrrigWaterAvailability']",289,Mode,CalendarDate SeedlingAge RainArrival IrrigWaterAvailability LaborAvailability
+TransplantingIrrigationHours,float64,43,"[5.0e+00 4.0e+00     nan 9.0e+00 1.0e+00 2.0e+00 3.0e+00 6.0e+00 7.0e+00
+ 1.2e+01 1.3e+01 1.0e+01 1.5e+01 1.4e+01 8.0e+00 1.5e+02 2.2e+01 3.5e+01
+ 2.0e+01 9.0e+01 3.0e+01 2.5e+02 4.5e+02 6.5e+01 3.5e+02 4.0e+01 1.1e+01
+ 3.0e+02 1.8e+01 2.0e+02 4.5e+01 2.5e+01 2.1e+01 5.0e+01 7.2e+01 1.6e+01
+ 2.8e+01 1.9e+01 6.0e+01 2.3e+01 2.0e+03 2.4e+01 1.3e+02 1.7e+01]",193,Mean,8.01767745444656
+TransplantingIrrigationSource,object,6,['Boring' nan 'Canal' 'Rainfed' 'Pond' 'TubeWell' 'Well'],115,Mode,Boring
+TransplantingIrrigationPowerSource,object,3,['Electric' nan 'Diesel' 'Solar'],503,Mode,Electric
+TransIrriCost,float64,100,"[2.000e+02 1.250e+02 8.000e+01       nan 3.000e+02 1.000e+02 3.500e+02
+ 1.800e+02 2.500e+02 1.000e+03 4.000e+02 1.500e+02 1.200e+02 6.000e+03
+ 8.000e+02 6.000e+02 5.200e+02 3.800e+02 5.000e+02 4.500e+02 3.750e+02
+ 3.000e+03 5.000e+01 1.100e+02 2.400e+02 3.200e+02 1.500e+03 1.050e+02
+ 2.300e+02 2.000e+01 1.400e+02 4.000e+00 4.200e+02 9.000e+01 1.600e+02
+ 2.000e+03 5.000e+00 2.750e+02 5.750e+02 4.000e+01 9.800e+01 9.000e+02
+ 7.000e+02 1.200e+01 2.500e+03 1.750e+02 1.700e+02 1.200e+03 3.000e+01
+ 7.000e+01 1.900e+02 2.800e+02 5.500e+02 1.000e+01 6.000e+01 2.000e+00
+ 9.500e+01 2.250e+02 2.200e+03 2.600e+02 6.000e+00 7.500e+01 7.500e+02
+ 2.100e+02 3.600e+02 1.100e+03 1.080e+02 2.200e+02 4.800e+02 3.580e+02
+ 8.000e+00 2.900e+02 1.000e+00 1.300e+02 2.700e+02 1.680e+02 1.600e+03
+ 6.500e+02 1.900e+03 3.000e+00 1.008e+03 1.400e+03 7.200e+01 2.500e+01
+ 2.100e+03 1.650e+02 8.400e+01 4.300e+02 5.800e+02 2.600e+03 9.600e+02
+ 4.750e+02 2.580e+02 8.800e+01 5.250e+02 9.700e+01 3.200e+03 4.400e+02
+ 1.180e+02 4.250e+02 9.500e+02]",882,Mean,379.7269076305221
+StandingWater,float64,14,[ 2.  3. nan  6.  5.  1.  4. 11.  9.  8.  7. 12. 10. 15. 13.],238,Mean,3.247522026431718
+OrgFertilizers,object,31,"[nan 'Ganaura FYM' 'Ganaura' 'FYM' 'VermiCompost'
+ 'Ganaura Pranamrit Ghanajeevamrit' 'FYM VermiCompost'
+ 'Ganaura Ghanajeevamrit' 'Ghanajeevamrit Ganaura FYM'
+ 'Ganaura FYM Ghanajeevamrit' 'FYM Ganaura' 'Pranamrit'
+ 'FYM Ganaura VermiCompost' 'Ganaura FYM VermiCompost' 'Jeevamrit'
+ 'VermiCompost FYM' 'Ganaura FYM VermiCompost Ghanajeevamrit'
+ 'Ganaura FYM PoultryManure' 'Ghanajeevamrit Ganaura' 'PoultryManure'
+ 'Ganaura VermiCompost FYM' 'Ganaura PoultryManure'
+ 'Ganaura Ghanajeevamrit VermiCompost' 'FYM Ghanajeevamrit'
+ 'Ghanajeevamrit FYM Ganaura' 'Ganaura Ghanajeevamrit FYM'
+ 'Ganaura FYM PoultryManure VermiCompost' 'Ganaura Pranamrit'
+ 'Ganaura VermiCompost Ghanajeevamrit' 'Ganaura Pranamrit FYM'
+ 'Ganaura Jeevamrit' 'Ganaura FYM Ghanajeevamrit VermiCompost']",1335,Mode,Ganaura
+Ganaura,float64,35,"[    nan 1.0e+00 4.0e+00 2.0e+00 2.5e+01 3.0e+00 5.0e+00 4.5e+01 6.0e+02
+ 5.0e+01 1.0e+01 2.2e+01 6.0e+00 1.2e+01 5.0e+02 9.0e+00 1.5e+01 8.0e+00
+ 2.0e+01 1.0e+02 8.0e+01 2.8e+01 7.0e+00 1.8e+01 1.2e+03 1.6e+01 8.0e+02
+ 3.0e+01 1.2e+02 4.0e+01 1.1e+01 9.0e+02 1.4e+02 6.5e+02 1.4e+03 2.9e+01]",2417,Mean,29.731589814177564
+CropOrgFYM,float64,44,"[    nan 1.0e+00 5.0e+00 2.0e+00 1.8e+01 3.5e+01 3.0e+00 1.5e+01 4.0e+00
+ 8.0e+00 1.5e+03 6.0e+00 1.0e+01 4.0e+01 1.2e+01 1.1e+03 2.0e+01 2.0e+03
+ 3.0e+03 2.5e+01 3.0e+01 1.2e+03 1.6e+01 1.9e+01 1.7e+01 1.1e+01 6.0e+02
+ 1.3e+01 1.4e+01 3.0e+02 9.0e+00 1.8e+03 2.2e+01 7.0e+00 5.0e+01 4.0e+03
+ 1.0e+02 5.0e+02 2.3e+03 2.5e+03 6.0e+01 8.0e+01 1.6e+03 2.2e+03 3.8e+01]",2674,Mean,57.44565217391305
+PCropSolidOrgFertAppMethod,object,4,[nan 'SoilApplied' 'Broadcasting' 'RootApplication' 'Spray'],1337,Mode,SoilApplied
+NoFertilizerAppln,int64,4,[2 3 1 4],0,Mean,2.184496124031008
+CropbasalFerts,object,34,"['Urea' 'DAP Urea' 'DAP' 'Urea DAP' 'DAP Other' nan 'DAP Urea SSP' 'NPK'
+ 'Urea SSP DAP' 'DAP Urea MoP' 'NPK Urea' 'Urea NPKS' 'DAP Urea NPKS SSP'
+ 'DAP Urea NPKS' 'DAP MoP' 'Urea DAP NPKS' 'Urea DAP SSP' 'Urea SSP'
+ 'DAP Urea SSP MoP' 'DAP SSP' 'NPK DAP Urea' 'DAP NPKS Other' 'DAP NPKS'
+ 'Urea NPK' 'Urea NPKS DAP' 'Urea DAP MoP' 'DAP Urea NPKS MoP'
+ 'DAP NPKS Urea' 'DAP NPK Urea' 'SSP Urea' 'DAP Urea NPK'
+ 'DAP NPKS Urea SSP' 'NPKS' 'NPKS DAP Urea' 'Urea Other DAP']",188,Mode,DAP Urea
+BasalDAP,float64,44,"[ nan  15.   4.   6.   3.   5.  13.   9.  10.   2.  24.   8.  20.   7.
+  12.  22.  14.  36.  18.  30.   1.  25.  16.  50.  11.  23.  40.  60.
+  33.  44.  17.  28.  32.  21.  19.  35.  26. 100.  69.  48.  34.  45.
+  37.  27.  38.]",543,Mean,11.452359483017734
+BasalUrea,float64,41,"[20. 10. nan  3. 30.  8. 18. 15.  9. 25.  5. 12. 11.  7. 40. 22. 24. 14.
+ 13.  4. 36.  2.  6. 45. 28. 16. 60. 42. 17.  1. 32. 21. 23. 70. 50. 19.
+ 90. 33. 44. 35. 34. 26.]",1704,Mean,13.35180055401662
+MineralFertAppMethod,object,3,['Broadcasting' 'SoilApplied' 'RootApplication'],0,Mode,Broadcasting
+FirstTopDressFert,object,14,"['Urea' 'DAP Urea' 'Urea DAP' nan 'DAP' 'NPKS Urea' 'NPK' 'Urea NPKS'
+ 'DAP NPK Urea' 'DAP NPKS' 'Urea NPK' 'DAP NPK' 'Urea SSP' 'NPK Urea'
+ 'Other Urea']",485,Mode,Urea
+1tdUrea,float64,44,"[15. 20.  5. 30.  6.  4. 18.  2.  9. 10. 12. 26. nan  8. 24.  7. 25. 40.
+ 13. 16. 22.  3. 36. 14. 45. 28. 11.  1. 32. 34. 60. 50. 38. 35. 23. 70.
+ 29. 21. 19. 42. 52. 46. 80. 17. 90.]",556,Mean,11.513880506940254
+1appDaysUrea,float64,57,"[ 18.  39.  65.   5.  26.  30.  28.  35.  20.  25.  40.  50.  nan  23.
+   8.  10.  45.  12.  15.  22.  62.  42.  29.  27.  24.   1.  32.  46.
+  38.  44.  19.   3.  55.  36.   7.  21.  48.  31.  34.   6.   9.  13.
+  16.  43.  60.  41.   2.  33.  37.   4.  75.  11.  14.  63.  52. 332.
+  70.  47.]",556,Mean,29.20036210018105
+2tdUrea,float64,29,"[nan  6.  7. 12.  1.  5. 10.  8. 16.  4.  3.  2. 13. 15.  9. 14. 18. 25.
+ 20. 23. 29. 30. 24. 19. 40. 67. 60. 32. 21. 11.]",2694,Mean,7.375
+2appDaysUrea,float64,38,"[nan 67. 58. 65. 60. 56. 50. 62. 68. 45. 63. 55. 75. 30. 66. 40. 57. 70.
+ 64. 25. 51.  8. 46. 78. 80. 72. 76. 73. 61. 15. 59. 69. 10. 85. 52.  6.
+ 35.  1. 97.]",2700,Mean,58.76495726495727
+MineralFertAppMethod.1,object,3,['Broadcasting' 'RootApplication' nan 'SoilApplied'],481,Mode,Broadcasting
+Harv_method,object,2,['machine' 'hand'],0,Mode,hand
+Harv_date,object,107,"['2022-11-16' '2022-11-25' '2022-12-12' '2022-12-02' '2022-11-30'
+ '2022-10-24' '2022-11-04' '2022-12-05' '2022-11-07' '2022-10-29'
+ '2022-12-01' '2022-11-14' '2022-11-29' '2022-11-26' '2022-12-17'
+ '2022-11-22' '2022-10-15' '2022-10-31' '2022-10-20' '2022-10-18'
+ '2022-11-05' '2022-11-11' '2022-11-09' '2022-11-20' '2022-10-10'
+ '2022-11-02' '2022-10-25' '2022-11-17' '2022-11-10' '2022-11-18'
+ '2022-12-08' '2022-11-15' '2022-11-24' '2022-11-23' '2022-11-08'
+ '2022-11-03' '2022-11-01' '2022-11-28' '2022-11-13' '2022-11-06'
+ '2022-12-06' '2022-10-05' '2022-10-30' '2022-10-21' '2022-11-12'
+ '2022-10-23' '2022-12-09' '2022-11-19' '2022-10-13' '2022-11-27'
+ '2022-12-03' '2022-12-10' '2022-10-27' '2022-10-26' '2022-11-21'
+ '2022-10-17' '2022-10-28' '2022-09-16' '2022-10-22' '2022-10-08'
+ '2022-12-04' '2022-12-20' '2022-10-14' '2022-09-05' '2022-10-01'
+ '2022-12-19' '2022-10-02' '2022-12-24' '2022-12-11' '2022-12-29'
+ '2022-10-16' '2022-10-12' '2022-12-27' '2022-12-23' '2022-10-11'
+ '2022-12-15' '2022-12-13' '2022-10-07' '2022-10-19' '2022-12-07'
+ '2022-10-06' '2022-12-22' '2022-12-18' '2022-12-14' '2023-02-02'
+ '2022-09-07' '2023-01-10' '2022-10-04' '2022-12-16' '2022-12-28'
+ '2022-10-03' '2023-01-05' '2022-12-21' '2023-03-18' '2021-12-01'
+ '2022-12-25' '2022-09-11' '2023-01-17' '2022-10-09' '2023-01-21'
+ '2022-03-04' '2022-12-30' '2022-09-10' '2021-12-03' '2023-01-01'
+ '2023-01-26' '2023-01-27']",0,Mode,2022-11-05
+Harv_hand_rent,float64,131,"[      nan 3.000e+00 4.800e+02 2.400e+02 6.000e+02 1.300e+02 8.000e+01
+ 1.200e+03 9.000e+01 1.200e+02 1.000e+03 5.600e+02 9.000e+02 1.500e+02
+ 8.000e+02 2.000e+02 1.600e+03 3.000e+02 1.000e+02 2.100e+03 2.500e+02
+ 5.000e+02 4.000e+02 6.000e+01 7.000e+02 1.500e+03 3.500e+02 4.500e+02
+ 1.400e+03 2.000e+03 8.500e+02 7.500e+02 7.200e+02 2.250e+02 9.900e+02
+ 6.137e+03 5.200e+02 8.400e+02 5.000e+01 4.600e+02 1.300e+03 5.300e+02
+ 6.500e+02 2.400e+03 2.700e+02 1.150e+03 4.900e+02 3.000e+03 2.500e+03
+ 3.200e+03 1.100e+03 9.300e+02 1.800e+02 4.680e+02 1.750e+02 1.800e+03
+ 4.000e+03 1.700e+03 2.900e+03 9.600e+02 2.200e+02 5.000e+00 1.600e+02
+ 2.900e+02 2.750e+02 1.250e+02 2.800e+03 4.200e+02 1.440e+03 2.100e+02
+ 9.930e+02 5.800e+02 3.450e+02 1.750e+03 1.250e+03 2.550e+02 2.300e+02
+ 1.080e+03 1.630e+02 1.000e+01 5.500e+02 4.400e+02 8.500e+01 1.900e+03
+ 6.000e+00 3.800e+02 2.000e+01 6.300e+02 1.230e+03 6.400e+02 3.750e+03
+ 6.750e+02 2.000e+00 7.000e+01 3.580e+02 1.500e+01 3.300e+02 3.750e+02
+ 9.300e+03 3.500e+03 7.500e+01 2.308e+03 3.900e+02 8.600e+02 1.050e+02
+ 1.222e+03 3.600e+02 7.931e+03 6.000e+04 1.690e+02 3.650e+02 4.000e+00
+ 2.300e+03 4.350e+02 2.280e+02 1.880e+03 2.160e+02 2.200e+03 1.450e+03
+ 6.900e+02 1.200e+01 7.221e+03 1.400e+02 1.000e+00 3.250e+02 2.700e+03
+ 5.400e+02 6.800e+02 9.500e+02 3.050e+02 3.200e+02 4.250e+02]",252,Mean,536.6224433388612
+Threshing_date,object,162,"['2022-11-16' '2022-12-24' '2023-01-11' '2022-12-29' '2022-12-02'
+ '2022-11-04' '2022-12-08' '2022-12-06' '2022-12-15' '2022-11-14'
+ '2022-12-23' '2023-01-21' '2022-11-30' '2023-02-02' '2023-01-27'
+ '2022-12-17' '2022-12-18' '2022-10-28' '2022-11-15' '2023-03-10'
+ '2023-01-06' '2022-11-02' '2022-12-16' '2022-10-25' '2022-10-26'
+ '2023-01-23' '2023-01-03' '2022-10-20' '2022-12-12' '2023-02-24'
+ '2022-12-13' '2022-10-31' '2023-01-19' '2022-12-22' '2023-01-08'
+ '2022-11-29' '2022-12-30' '2022-11-25' '2022-11-24' '2022-10-30'
+ '2023-01-25' '2022-11-18' '2022-11-12' '2022-12-04' '2023-01-28'
+ '2023-01-20' '2022-11-13' '2022-12-01' '2022-11-19' '2022-12-28'
+ '2022-11-17' '2022-11-20' '2022-11-05' '2022-12-10' '2023-01-17'
+ '2022-12-26' '2022-11-03' '2023-01-24' '2023-02-11' '2022-12-05'
+ '2023-02-14' '2023-01-18' '2022-10-15' '2023-01-12' '2022-11-27'
+ '2022-12-03' '2023-02-13' '2022-12-25' '2022-11-11' '2022-12-20'
+ '2023-01-26' '2022-11-09' '2022-10-29' '2022-11-22' '2022-12-31'
+ '2023-01-22' '2022-11-26' '2023-02-25' '2022-10-22' '2022-12-14'
+ '2022-10-24' '2023-01-07' '2022-10-27' '2022-12-07' '2023-02-18'
+ '2022-12-11' '2022-11-10' '2023-01-05' '2022-11-28' '2023-02-10'
+ '2022-10-23' '2023-01-29' '2023-01-04' '2022-12-09' '2022-12-21'
+ '2022-12-27' '2023-01-09' '2023-01-13' '2023-01-16' '2022-10-10'
+ '2022-12-19' '2023-01-02' '2023-01-31' '2023-02-19' '2023-02-17'
+ '2022-10-12' '2023-03-16' '2023-01-10' '2023-02-15' '2023-03-09'
+ '2022-11-23' '2022-11-08' '2023-02-16' '2023-01-30' '2023-02-06'
+ '2023-03-03' '2022-10-21' '2023-03-15' '2023-02-05' '2023-02-20'
+ '2023-02-12' '2022-11-21' '2023-01-15' '2023-02-04' '2023-03-04'
+ '2022-10-16' '2022-10-05' '2022-10-18' '2023-02-22' '2023-01-14'
+ '2023-03-17' '2023-03-13' '2023-02-01' '2023-03-22' '2023-02-26'
+ '2022-10-13' '2022-10-14' '2022-11-06' '2022-11-01' '2023-03-14'
+ '2023-02-23' '2023-03-11' '2023-03-05' '2022-10-08' '2023-02-09'
+ '2022-10-04' '2022-10-19' '2022-10-17' '2023-03-20' '2023-03-12'
+ '2023-03-08' '2023-02-28' '2023-03-21' '2023-02-21' '2023-02-03'
+ '2023-02-07' '2023-03-01' '2022-10-03' '2022-11-07' '2022-10-01'
+ '2023-02-08' '2023-02-27']",0,Mode,2022-12-22
+Threshing_method,object,2,['machine' 'hand'],0,Mode,machine
+Residue_length,int64,22,[30 24 26 25 22 29 27 23 28 20 12 21  5  2  3 19 15 10  4  8 13  6],0,Mean,26.517829457364343
+Residue_perc,int64,2,[40 10],0,Mean,11.767441860465116
+Stubble_use,object,2,['plowed_in_soil' 'burned'],0,Mode,plowed_in_soil
+Acre,float64,77,"[0.3125     0.14814815 0.22222222 0.46875    0.13636364 0.25
+ 0.22727273 0.15625    0.59090909 0.28125    0.45454545 0.18181818
+ 0.37037037 0.40625    0.375      0.09090909 0.36363636 0.27272727
+ 0.31818182 0.55555556 0.625      0.40909091 0.04545455 1.36363636
+ 0.18518519 0.07407407 0.72727273 0.81818182 0.5625     0.5
+ 0.21875    0.9375     0.54545455 0.125      0.1875     0.51851852
+ 0.0625     0.4375     0.68181818 0.78125    0.74074074 0.34375
+ 0.2962963  0.90909091 0.63636364 1.04545455 0.44444444 0.86363636
+ 0.25925926 1.5        0.11111111 1.         1.13636364 0.53125
+ 1.81818182 0.09375    1.85185185 0.33333333 0.6875     1.09090909
+ 0.77272727 1.09375    0.95454545 1.31818182 2.1875     1.92592593
+ 1.45454545 1.40625    0.71875    1.18181818 1.25       1.63636364
+ 1.22727273 0.8125     1.27272727 1.59090909 0.59375   ]",0,Mean,0.2928261947641792
+Yield,int64,379,"[  600   225   468   550   205   270   490   425   300  1300   450   800
+   280   720   750   350   210   480  1200  1100   250     8   400   320
+  4000   380   180   500   860   410   498   900  1000   700   240   340
+   140   100   327   324  1050    10   402   580  2400   540   150   630
+   160   840  1700  1620   810   322   880   310   390    45     4   355
+   710   560   243   200  1120   740   316   650   440   321    80   640
+   760   685   688    95   780   955  1600  2250   325   492    75  1500
+     6   790   420   680  2000    50   120  2500   405  1230   408   510
+   220   285   960  1220   318   660   360   385   850  2700   375   462
+   195  3600   596  1800   275  1870   414  2125   482   756   745   456
+   483   870  1680  2600   424  3400   235   207   329   442   328   238
+   670   306   153   110  1125  2185   624   623   890   175  6000  3200
+   415  1080  1608   595   170   395   460   226   475  3900   260  1880
+   255   663   885   520   404   693   242   930  1540 16800   662   438
+  1658   590   656  1650  1395   922   775   485   421  8000    90  1900
+  3500   832   681   481  4780   556   317   568  1008   609   830   230
+  1955   645   241   625  1550   330   632    40   558  1095   268   950
+   398   259   129   246  1605   920  1910   430  2300  1260   642   486
+  4050  1150  1400   245   574   326   534   675   104   370   244  1385
+   620   910  1275   158   911   470   465  2880   248  1350  2200  2550
+   445   858  5300  1760   690   522   755  1560   892  1920   552  2070
+   115   715  2610  1530   765  1040  1320   584   562   403   198   228
+   664   990  1020  1250  2340  1380   272  1280   128  2210  1440   236
+ 14400   705  2440   411  7510    65  1203   216   544   495   575   980
+   504  1740   432   155  3000  1240   190   612   323   290   252   530
+   345   975   391   585   130   239   655  4800  1890     7   684  1245
+   875   305   602   169   569   555   728   265   455  1555  1875   816
+   308   841   409  1980   835  5400   770   145  1190   118   945   570
+   256   416  2100   229   406   532   165   820  2800  1375   444   474
+   735   247   725   163    56  2520   396   608   648    58    70  1460
+   312   332   125   232  1780  3150  2025   546   295   525   286   824
+   795   335   963  1512   940   610   653]",0,Mean,594.2692506459948
